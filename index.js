@@ -22,7 +22,7 @@ tabBtn.addEventListener("click", function(){
         render(myLeads);
      });
     
-})
+});
 
 function render(leads) {
     let listItems = "";
